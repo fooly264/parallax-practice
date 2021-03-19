@@ -1,6 +1,13 @@
-.h1 {
+.body {
+    background-color: #F1F1F2;
+    font-family: 'Berkshire swash', ; 
+}
+/* .body {
+    font-family: "sofia", sans-serif !important
+} */
+/* .h1 {
     font-family: 'Redressed', cursive;
 }
 .h2 {
     font-family: 'Berkshire Swash',cursive;
-}
+} */
